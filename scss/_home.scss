@@ -13,7 +13,7 @@
 	}
 	.about_img {
 		position: relative;
-		right: 250px;
+		right: 50px;
 		@media (max-width: 1480px) {
 			right: 0;
 			img {
@@ -273,9 +273,6 @@
 		}
 	}
 }
-.portfolio_details_area {
-}
-
 .portfolio_details_inner {
 	.row {
 		margin-bottom: 65px;
@@ -452,7 +449,6 @@
 		line-height: 48px;
 		font-size: 14px;
 		font-family: $title-font;
-		padding: 0px 38px;
 		cursor: pointer;
 		@media (max-width: 767px) {
 			margin-top: 20px;
